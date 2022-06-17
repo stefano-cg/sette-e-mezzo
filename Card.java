@@ -1,3 +1,5 @@
+package card.games;
+
 public enum Card {
 	ASSO_DI_SPADE(1, "spade"),
 	DUE_DI_SPADE(2, "spade"),
