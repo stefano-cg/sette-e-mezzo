@@ -1,3 +1,5 @@
+package card.games;
+
 import java.util.*;
 
 public class Deck {
