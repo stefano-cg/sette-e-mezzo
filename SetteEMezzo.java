@@ -180,7 +180,7 @@ public class SetteEMezzo {
 		}
 		
 		System.out.println("Grazie per aver giocato!");
-		
+	
 	}
 
 }
